@@ -1,4 +1,4 @@
- ![Mission-river](img/a.JPG)
+ ![Mission-river](img/a.jpg)
  
 ## Idea
 Our idea which is consist of a web that will help industries, authorities and communities to identify the hazardous chemicals and all other elements, its possible source and remedy.
